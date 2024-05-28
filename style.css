@@ -34,6 +34,7 @@ header{
     justify-content: space-between;
     margin: 0 auto;
     /* min-height: 100px;   */
+    height: 65px;
 }
 
 nav {
@@ -230,7 +231,7 @@ main{
         font-size: 15px;
     }
 
-    .logo{
-        /* width: 30px; */
-    }
+    /* .logo{
+        width: 30px;
+    } */
 }
